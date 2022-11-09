@@ -8,4 +8,4 @@ This project was made as a way for me to practice and retain my coding skills ov
 - Avoid crashing into the walls!
 
 ![alt text](https://github.com/pnw-dang/Snake/blob/main/Game.PNG)
-![alt text](https://github.com/pnw-dang/Snake/blob/main/GameOver.PNG)
+
