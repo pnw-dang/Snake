@@ -1,5 +1,5 @@
 # Snake
-This project was made as a way for me to practice and retain my coding skills over the summer. 
+This project was made as a way for me to practice and retain my coding skills. Made mostly for fun! :)
 
 **How to Play**
 
